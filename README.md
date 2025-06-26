@@ -70,18 +70,13 @@ This project predicts **8-hourly water consumption** for residential buildings a
 
 1. **Clone the repository:**
     ```
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone <[repository-url](https://github.com/harshitag2/WaterConsumptionForecasting)>
     ```
 
 2. **Install dependencies:**
     ```
     pip install -r requirements.txt
     ```
-
-3. **Run the main notebook:**
-    - Open `Copy_of_W_Work-1.ipynb` in Jupyter Notebook or Google Colab.
-    - Execute cells sequentially to reproduce preprocessing, feature engineering, modeling, and evaluation.
 
 ---
 
@@ -97,13 +92,13 @@ This project predicts **8-hourly water consumption** for residential buildings a
 ## Results
 
 - **Best Model:** Polynomial Regression (degree 2, "poly2lin")
-- **Best MAPE:** 6% on validation data
+- **Best MAPE:** 6.43% on validation data
 
 ---
 
 ## Contact
 
-For questions or collaboration, please contact [Your Name] at [your-email@domain.com].
+For questions or collaboration, please contact [Harshit Agarwal] at [harshitjee23@gmail.com].
 
 ---
 
