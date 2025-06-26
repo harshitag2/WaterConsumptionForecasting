@@ -15,6 +15,8 @@ This project predicts **8-hourly water consumption** for residential buildings a
 - **Features Used:**
   - **Meteorological:**  
     - Precipitation
+    - Relative Humidity
+    - Temperature 
   - **Calendar & Time-of-Day:**  
     - `isday` (daytime indicator)
     - `isnight` (nighttime indicator)
